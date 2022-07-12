@@ -5,7 +5,8 @@
       {
         "appID": "8A5984KG4L.com.yunyue.reader",
         "paths": [
-          "/official/*"
+          "/official/*",
+          "/qq_conn/1104951241/*"
         ]
       }
     ]
